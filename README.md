@@ -17,7 +17,7 @@ To update Blackbox to the latest version, add the `--upgrade` flag to the above 
 
 ```python
 >>> import blackbox as bx
->>> bx.break(mergesort)
+>>> bx.order(mergesort)
 O(n log(n))
 ```
 
