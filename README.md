@@ -1,7 +1,7 @@
 
 # Blackbox
 
-[Blackbox](https://en.wikipedia.org/wiki/Black_box) is a system platform for analysis of problems with nondeterministic polynomial time. Its development is intended to facilitate research in theoretical computer science, most notably the [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem).
+[Blackbox](https://en.wikipedia.org/wiki/Black_box) is a Python library for analyzing algorithms in terms of time, space, and determinism. Its development is intended to facilitate research in theoretical computer science, primarily the [P versus NP problem](https://en.wikipedia.org/wiki/P_versus_NP_problem).
 
 ## Install
 
